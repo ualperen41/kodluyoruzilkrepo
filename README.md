@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Egitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html bulunuyor.
-![] (https://avatars.mds.yandex.net/i?id=7525f85ed158bbe5b2cdac1a9807a0f77b7d7385-4818427-images-thumbs&n=13)
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Egitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html bulunuyor.
+![](https://avatars.mds.yandex.net/i?id=7525f85ed158bbe5b2cdac1a9807a0f77b7d7385-4818427-images-thumbs&n=13)
 # Installation
 Öncelikle projeyi clonelayın
 '''
